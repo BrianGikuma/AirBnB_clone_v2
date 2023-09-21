@@ -1,0 +1,1 @@
+"""Web flask init file"""
